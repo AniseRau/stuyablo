@@ -19,7 +19,7 @@ public class Character {
     s += "Health: " + health + "\n";
     s += "Intelligence: " + intelligence + "\n";
     s += "Attack: " + attack + "\n";
-    s += "Defencse: " + defense;
+    s += "Defense: " + defense;
     return s;
   }
   
